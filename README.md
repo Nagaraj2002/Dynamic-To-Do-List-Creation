@@ -22,7 +22,7 @@ CSS
 JavaScript
 
 ## 🌟 Demo
-![Dynamic To-Do List Application](https://drive.google.com/file/d/1p_ugHswef0kOfHDXAmq5yPS9tm1bhYXr/view?usp=drive_link)
+![Dynamic To-Do List Application](https://drive.google.com/uc?export=view&id=1p_ugHswef0kOfHDXAmq5yPS9tm1bhYXr)
 
 
 ## 🌟 Contributors
