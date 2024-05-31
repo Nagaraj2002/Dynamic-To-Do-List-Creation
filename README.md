@@ -12,6 +12,17 @@ Drag and Drop (Optional): Users can optionally use drag-and-drop functionality t
 
 Persist Tasks: Tasks are stored in local storage, so they persist even after a page refresh.
 
+## 🌟 Setup and Running Instructions
+Clone the Repository: Clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/Nagaraj2002/Dynamic-To-Do-List-Creation.git
+```
+
+Open the Application: Navigate to the directory where you cloned the repository and open the index.html file in your web browser.
+
+Use the Application: Add tasks using the form at the top. Move tasks between sections by clicking buttons or dragging and dropping.
+
 ## 🌟 Usage
 
 Clone the repository to your local machine.
