@@ -12,7 +12,7 @@ Drag and Drop (Optional): Users can optionally use drag-and-drop functionality t
 
 Persist Tasks: Tasks are stored in local storage, so they persist even after a page refresh.
 
-## 🌟 Setup and Running Instructions
+## 🛠️ Setup and Running Instructions
 Clone the Repository: Clone this repository to your local machine using the following command:
 
 ```bash
@@ -24,7 +24,7 @@ Open the Application: Navigate to the directory where you cloned the repository 
 Use the Application: Add tasks using the form at the top. Move tasks between sections by clicking buttons or dragging and dropping.
 
 
-## 🌟 Technologies Used
+## ⚙️ Technologies Used
 HTML
 
 CSS
@@ -38,5 +38,9 @@ JavaScript
 ## 🌟 Contributors
 Nagaraj Gaddi
 
-## 🌟 License
+## 🤝 Contributing
+
+Just to let you know, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
