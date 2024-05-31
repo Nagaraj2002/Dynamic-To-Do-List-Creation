@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
 
         addButton(task, section);
+        addDeleteButton(task);
 
         // Add drag and drop event listeners to the task element
         task.addEventListener('dragstart', () => {
@@ -64,6 +65,18 @@ document.addEventListener('DOMContentLoaded', () => {
             button.addEventListener('click', () => moveTask(task, 'completed'));
         }
         task.appendChild(button);
+    }
+
+    // Function to add a delete button to a task element
+    function addDeleteButton(task) {
+        const deleteButton = document.createElement('button');
+        deleteButton.innerText = 'Delete';
+        deleteButton.classList.add('delete');
+        deleteButton.addEventListener('click', () => {
+            task.remove();
+            saveTasks();
+        });
+        task.appendChild(deleteButton);
     }
 
     // Function to move a task to a different section
@@ -157,10 +170,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to update a task's button and move it to the appropriate section
     function updateTask(task, section) {
         // Remove existing buttons
-        const button = task.querySelector('button');
+        const button = task.querySelector('button:not(.delete)');
         if (button) button.remove();
 
         addButton(task, section);
+        addDeleteButton(task);
 
         if (section === 'pending') {
             pendingTasks.appendChild(task);
