@@ -23,16 +23,12 @@ Open the Application: Navigate to the directory where you cloned the repository 
 
 Use the Application: Add tasks using the form at the top. Move tasks between sections by clicking buttons or dragging and dropping.
 
-## 🌟 Usage
-
-Clone the repository to your local machine.
-Open index.html in your web browser.
-Add tasks using the form at the top.
-Move tasks between sections by clicking buttons or dragging and dropping.
 
 ## 🌟 Technologies Used
 HTML
+
 CSS
+
 JavaScript
 
 ## 🌟 Demo
