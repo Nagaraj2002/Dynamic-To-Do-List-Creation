@@ -22,7 +22,8 @@ CSS
 JavaScript
 
 ## 🌟 Demo
-![Screenshot from 2024-05-01 12-32-18](https://github.com/Nagaraj2002/git-dummy/blob/main/Dynamic%20To-Do%20List%20Application.png.jpg)
+![Dynamic To-Do List Application](https://drive.google.com/file/d/1p_ugHswef0kOfHDXAmq5yPS9tm1bhYXr/view?usp=drive_link)
+
 
 ## 🌟 Contributors
 Nagaraj Gaddi
